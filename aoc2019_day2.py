@@ -1,4 +1,4 @@
-#Day 1 Part 1 and Part 2
+#Day 2 Part 1 and Part 2
 path = 'aoc2019_day2.txt'
 prog = list()
 with open(path) as f:
