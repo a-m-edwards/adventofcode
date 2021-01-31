@@ -1,4 +1,4 @@
-#Day 13 Part 1 and Part 2 Attempt 2
+#Day 13 Part 1 and Part 2
 path = 'aoc2019_day13.txt'
 day13 = dict()
 index = 0
